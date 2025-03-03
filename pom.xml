@@ -5,7 +5,7 @@
   <artifactId>asharani-project</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>ravi-project Maven Webapp</name>
+  <name>asharani-project Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
